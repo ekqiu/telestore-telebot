@@ -1,4 +1,4 @@
-# EZBusiness, A digital store platform concept
+# TeleStore, A digital store platform concept
 ## Making starting a business easy and cost-free.
 Platforms such as Shopify require a minimum 39$ to keep your store running for another month past the free trial. However, for many stores, they require more than a month to get a business started running. This can be due to various reasons, such as long lead times on their products, the time needed for proper market research, building an audience, or refining their branding and offerings. These upfront costs, although relatively low compared to physical businesses, can still be prohibitive for small entrepreneurs or individuals testing an idea.
 
